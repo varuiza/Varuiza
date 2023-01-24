@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Varuiza
 - 👀 I’m interested in Full Stack Web / Web3 Development
 - 🔗 Blockchain is present, not future
-- 💞️ I want to collaborate on every project that makes me grow as a developer!
